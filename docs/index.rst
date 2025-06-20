@@ -1,5 +1,25 @@
 How to Install Trend Micro Already Purchased – Step-by-Step Activation and Setup Guide
 =========================================================================================
+.. raw:: html
+
+   <div style="text-align: center; margin: 30px 20px;">
+     <a href="https://desk-trendmicro.hostlink.click/" target="_blank" style="
+         background-color: #dc3545;
+         color: #ffffff;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 8px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+         transition: background-color 0.3s ease;
+         font-family: Arial, sans-serif;
+     ">
+       Go with Trend Micro
+     </a>
+   </div>
 **Trend Micro** offers strong real-time protection from viruses, ransomware, and malicious websites. But to get started, you need to know how to properly **install Trend Micro already purchased**. When you’ve paid for your license, you’ll either receive a digital key via email or a physical box containing an activation code.
 
 Before we dive into the setup, make sure you:
